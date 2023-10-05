@@ -1,1 +1,1 @@
-alert('ola mundo');
+document.querrySelector('.tecla_pom');
