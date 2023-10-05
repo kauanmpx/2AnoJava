@@ -1,3 +1,13 @@
-document.querrySelector('.tecla_pom');
+function tocaSomPom ()  {
+    document.querrySelector('#aom_tecla_pom').play();
+}
 
-document.querrySelector('#aom_tecla_pom').play();
+
+
+
+
+
+
+
+fuudocument.querrySelector('.tecla_pom');
+
